@@ -9,4 +9,4 @@ Creating a random generator using JavaScript
 
 
 ## Link to application
-
+https://glennjohnyc.github.io/random-password-generator/
